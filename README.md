@@ -161,6 +161,7 @@ However, these seem to be the most used ones:
 - ![Commercial Software][Money Icon] [Descript](https://www.descript.com) - All-in-one video and audio editor with transcription-based editing
 - ![Open-Source Software][OSS Icon] [Kdenlive](https://kdenlive.org) [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kdenlive) - Free and open-source video editor
 - ![Open-Source Software][OSS Icon] [OpenShot](https://www.openshot.org) [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor
+- ![Open-Source Software][OSS Icon] [Molecular Animation](https://github.com/AmadeusBio-ai/Molecular_Animation) [![GitHub stars](https://img.shields.io/github/stars/AmadeusBio-ai/Molecular_Animation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AmadeusBio-ai/Molecular_Animation) - Python and Blender pipeline that turns a scientific brief and PDB or AlphaFold structures into labelled molecular animations
 
 ## Tools for taking notes
 
